@@ -1,5 +1,5 @@
 # SCT_ML_3
-Implementation of a support vector machine (SVM) to classify images of cats and dogs.
+🌟Implementation of a support vector machine (SVM) to classify images of cats and dogs:🌟
 
 Image classification plays a pivotal role in organizing and indexing the insane amount of images that exist on the internet so that they can be easily used by individuals and organizations alike.
 
